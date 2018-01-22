@@ -195,8 +195,6 @@ F 3 "" H 5550 2700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	5700 2200 5550 2200
-Wire Wire Line
 	5550 2200 5550 2700
 Wire Wire Line
 	5700 2500 5550 2500
@@ -300,4 +298,6 @@ Text Label 5750 6050 2    60   ~ 0
 PA3
 Text Label 5750 6150 2    60   ~ 0
 PA4
+Wire Wire Line
+	5700 2200 5550 2200
 $EndSCHEMATC
