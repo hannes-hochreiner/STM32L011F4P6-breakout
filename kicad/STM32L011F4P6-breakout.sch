@@ -145,9 +145,9 @@ L Ferrite_Bead L1
 U 1 1 59C95665
 P 6350 3100
 F 0 "L1" V 6200 3125 50  0000 C CNN
-F 1 "BKP1608HS600-T" V 6500 3100 50  0000 C CNN
-F 2 "Resistors_SMD:R_0603_HandSoldering" V 6280 3100 50  0001 C CNN
-F 3 "http://ds.yuden.co.jp/TYCOMPAS/ut/detail.do?productNo=BKP1608HS600-T&fileName=BKP1608HS600-T_SS&mode=specSheetDownload" H 6350 3100 50  0001 C CNN
+F 1 "NFZ5BBW100LN10L" V 6500 3100 50  0000 C CNN
+F 2 "Capacitors_SMD:C_2220_HandSoldering" V 6280 3100 50  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Murata%20PDFs/NFZ5BBWyyyLN10y_Ref_Sheet.pdf" H 6350 3100 50  0001 C CNN
 	1    6350 3100
 	0    1    1    0   
 $EndComp
